@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Setup Wizard</string>
-    <string name="os_name" translatable="false">DeYouOS</string>
+    <string name="os_name" translatable="false">AlienOS</string>
 
     <string name="lineage_wizard_script_uri" translatable="false">android.resource://org.lineageos.setupwizard/raw/lineage_wizard_script</string>
     <string name="lineage_wizard_script_user_uri" translatable="false">android.resource://org.lineageos.setupwizard/raw/lineage_wizard_script_user</string>
@@ -33,7 +33,7 @@
 
     <string name="setup_complete">Setup is complete</string>
     <string name="setup_welcome">Welcome</string>
-    <string name="setup_welcome_message">Welcome to <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_welcome_message">Welcome to <xliff:g id="name" example="AlienOS">%1$s</xliff:g></string>
     <string name="setup_locale">Language</string>
     <string name="setup_wifi">Select Wi-Fi</string>
     <string name="setup_sim_missing">SIM card missing</string>
@@ -96,8 +96,8 @@
 
     <!-- Backup Restore -->
     <string name="intro_restore_title">Restore apps and data</string>
-    <string name="intro_restore_subtitle" product="tablet">If you have a backup from your last <xliff:g id="name" example="LineageOS">%s</xliff:g> tablet, you can restore it here.</string>
-    <string name="intro_restore_subtitle" product="default">If you have a backup from your last <xliff:g id="name" example="LineageOS">%s</xliff:g> phone, you can restore it here.</string>
+    <string name="intro_restore_subtitle" product="tablet">If you have a backup from your last <xliff:g id="name" example="AlienOS">%s</xliff:g> tablet, you can restore it here.</string>
+    <string name="intro_restore_subtitle" product="default">If you have a backup from your last <xliff:g id="name" example="AlienOS">%s</xliff:g> phone, you can restore it here.</string>
     <string name="intro_restore_button">Restore from backup</string>
 
     <!-- Update Recovery -->
